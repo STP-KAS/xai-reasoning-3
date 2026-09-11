@@ -1,0 +1,6 @@
+desk.exe
+desk
+data/
+*.tmp
+.env
+
