@@ -1,4 +1,6 @@
-> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital. [KASPAglobal](https://x.com/kaspaglobal/status/2100536064683176270) · [DISCLAIMER.md](DISCLAIMER.md)
+> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+>
+> Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
 # Desk — xAI reasoning 3
 
@@ -12,8 +14,7 @@ Not Kaspa core. Not a dollar. Not kUSD.
 
 ```powershell
 go test ./...
-go build -o desk.exe .
-$env:DESK_NAME="Desk"
+go build -o desk.exe $env:DESK_NAME="Desk"
 $env:DESK_IBAN="DE89370400440532013000"   # example; put yours
 # $env:DESK_KASPA="q..."
 # $env:DESK_PREPAID_KEY="long-random"
