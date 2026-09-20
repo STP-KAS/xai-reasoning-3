@@ -36,3 +36,12 @@ http://127.0.0.1:8091 — loopback by default.
 KAS amount is a number **you type**. Not an oracle. Not Circle.
 
 MIT. No warranty.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
